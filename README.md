@@ -1,2 +1,2 @@
 # ProjectOCBB
-Some site where you can add video from YouTube for comfortable watching a lot video.
+Some information about this mega, ultra, bloody cool project! :)
